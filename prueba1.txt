@@ -1,2 +1,3 @@
 Hola esta es la primera prueba
-2ª prueba para el commit
+
+Borramos la 2ª frase y añadimos la nueva en otra rama
