@@ -38,9 +38,7 @@ I enjoy working on web and mobile projects using **PHP, JavaScript, and SQL**, a
 
 ## 📊 GitHub Analytics  
 
-![Ángel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aroldanrabanal&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroldanrabanal&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=aroldanrabanal&theme=tokyonight&border_radius=5)  
 
 ![Private Contributions](https://img.shields.io/badge/Private_Commits-150+-blue?style=flat)
 
