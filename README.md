@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ángel Roldán Rabanal  
 
-<!--
-**aroldanrabanal/aroldanrabanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack & Multiplatform Developer**  
+🎮 Passionate about technology, creativity, and building apps that make a difference.  
 
-Here are some ideas to get you started:
+I'm currently studying **Multiplatform Application Development (DAM)** at *SAFA Nuestra Señora de los Reyes*, and doing my **Erasmus internship in Prague**.  
+I enjoy working on web and mobile projects using **PHP, JavaScript, and SQL**, and I’m always exploring new tools to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me  
+- 🌍 Based in **Seville, Spain** — currently in **Prague 🇨🇿**  
+- 📚 Learning **Angular**, **Firebase**, and **mobile app development**  
+- 🤝 Open to collaborating on creative projects or open source ideas  
+- ✨ Curious by nature and always improving my code  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages & Frameworks**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics  
+
+![Ángel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aroldanrabanal&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroldanrabanal&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=aroldanrabanal&theme=tokyonight&border_radius=5)
+
+---
+
+## 🌐 Connect with Me  
+
+📧 **Email:** aroldanrabanal@safareyes.es  
+💼 **LinkedIn:** [linkedin.com/in/angelroldanrabanal](#)  
+💻 **GitHub:** [github.com/aroldanrabanal](https://github.com/aroldanrabanal)
+
+---
+
+⭐️ *“The best way to predict the future is to create it.”* — Alan Kay
