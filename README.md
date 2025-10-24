@@ -3,15 +3,15 @@
 💻 **Full-Stack & Multiplatform Developer**  
 🎮 Passionate about technology, creativity, and building apps that make a difference.  
 
-I'm currently studying **Multiplatform Application Development (DAM)** at *SAFA Nuestra Señora de los Reyes*, and doing my **Erasmus internship in Prague**.  
-I enjoy working on web and mobile projects using **PHP, JavaScript, and SQL**, and I’m always exploring new tools to improve my skills.
+I'm currently studying **Multiplatform Application Development (DAM)** at *SAFA Nuestra Señora de los Reyes*.  
+I enjoy working on web and mobile projects using **PHP, JavaScript, and SQL**, and I’m always focused on improving my skills in **multiplatform development**.
 
 ---
 
 ## 🧠 About Me  
-- 🌍 Based in **Seville, Spain** — currently in **Prague 🇨🇿**  
-- 📚 Learning **Angular**, **Firebase**, and **mobile app development**  
-- 🤝 Open to collaborating on creative projects or open source ideas  
+- 🌍 Based in **Seville, Spain**  
+- 💡 Focused on **Multiplatform and Full-Stack Development**  
+- 🤝 Open to collaborating on creative or open source projects  
 - ✨ Curious by nature and always improving my code  
 
 ---
@@ -40,14 +40,17 @@ I enjoy working on web and mobile projects using **PHP, JavaScript, and SQL**, a
 
 ![Ángel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aroldanrabanal&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroldanrabanal&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=aroldanrabanal&theme=tokyonight&border_radius=5)
+![GitHub Streak](https://streak-stats.demolab.com?user=aroldanrabanal&theme=tokyonight&border_radius=5)  
+
+![Private Contributions](https://img.shields.io/badge/Private_Commits-150+-blue?style=flat)
+
+> 🏢 Currently contributing to private repositories for a software company as part of my professional experience.
 
 ---
 
 ## 🌐 Connect with Me  
 
 📧 **Email:** aroldanrabanal@safareyes.es  
-💼 **LinkedIn:** [linkedin.com/in/angelroldanrabanal](#)  
 💻 **GitHub:** [github.com/aroldanrabanal](https://github.com/aroldanrabanal)
 
 ---
