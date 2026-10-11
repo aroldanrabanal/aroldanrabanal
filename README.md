@@ -48,7 +48,7 @@ I enjoy working on web and mobile projects using **PHP, JavaScript, and SQL**, a
 
 ## 🌐 Connect with Me  
 
-📧 **Email:** aroldanrabanal@safareyes.es  
+📧 **Email:** angelroldan497@gmail.com  
 💻 **GitHub:** [github.com/aroldanrabanal](https://github.com/aroldanrabanal)
 
 ---
